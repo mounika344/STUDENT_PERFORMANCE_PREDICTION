@@ -1,3 +1,4 @@
+
 # Student Performance Prediction System
 
 ## Project Overview
@@ -78,3 +79,5 @@ SQLite is used to store user details and prediction history. The database is cre
 ## Project Objective
 
 The main objective is to demonstrate how machine learning can be integrated into a web application to predict student performance based on academic information.
+# STUDENT_PERFORMANCE_PREDICTION
+This project demonstrates how Machine Learning techniques can be used to analyze student data and predict academic performance. It aims to support teachers and educational institutions in making informed decisions and improving students' academic outcomes
